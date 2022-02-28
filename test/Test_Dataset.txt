@@ -1,0 +1,8 @@
+Dataset yang digunakan adalah:
+
+Iris plants dataset
+Wine recognition dataset
+Breast cancer wisconsin (diagnostic) dataset
+
+Dari Scikit Datasets
+https://scikit-learn.org/stable/datasets/toy_dataset.html
