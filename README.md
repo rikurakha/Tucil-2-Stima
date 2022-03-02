@@ -41,3 +41,6 @@ Berikut adalah langkah yang dapat diikuti untuk menjalankan program ini
 3. Untuk mengganti dataset yang digunakan, silakan rubah bagian `data = datasets.load_{nama dataset}`
 4. Untuk mengganti atribut yang dibandingkan, silakan rubah bagian `printConvexHull(df, {indeks atribut 1}, {indeks atribut 2})`
 5. Lakukan `run` sekali lagi pada blok kode yang dirubah untuk melihat perubahannya
+
+### Oleh:
+Muhammad Rakha Athaya - 13520108
