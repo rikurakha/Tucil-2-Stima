@@ -39,5 +39,5 @@ Berikut adalah langkah yang dapat diikuti untuk menjalankan program ini
 1. Buka file `src/Tucil2_13520108.ipynb` atau bisa langsung akses link menuju Google Collab Notebook: https://colab.research.google.com/drive/1oYcSNt4-awyp1xVHUD_0EwZmyRfrxZ9B?usp=sharing
 2. Untuk menjalankan program, `run` tiap blok kode secara berurutan dari atas. Untuk menjalankan seluruh program sekaligus, pilih `runtime > run all` pada option bar
 3. Untuk mengganti dataset yang digunakan, silakan rubah bagian `data = datasets.load_{nama dataset}`
-4. Untuk mengganti atribut yang dibandingkan, silakan rubah bagian `printConvexHull(df, {indeks atribut 1}, {indeks atribut 2})
+4. Untuk mengganti atribut yang dibandingkan, silakan rubah bagian `printConvexHull(df, {indeks atribut 1}, {indeks atribut 2})`
 5. Lakukan `run` sekali lagi pada blok kode yang dirubah untuk melihat perubahannya
